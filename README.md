@@ -1,4 +1,3 @@
-# biography-project
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Biography of Venesia Mazengia</title>
     <style>
-        /* Basic page setup */
+        /* Basic page setup with a clean modern background */
         body {
             font-family: Arial, sans-serif;
             background-color: #f0f4f8;
@@ -78,17 +77,17 @@
         <!-- Introduction Header -->
         <div class="intro-section">
             <h1>Venesia Mazengia</h1>
-            <p>Welcome to my biography webpage!</p>
+            <p>Welcome to my Grade 9 biography webpage!</p>
         </div>
 
         <!-- About Me Section -->
         <h2>About Me</h2>
-        <p>Hi! My name is Venesia. I am currently a Grade 9 student navigating my way through school. Right now, my absolute favorite school subject is free periods—because let's be honest, who doesn't love a good break? Actually, for now, my favorite is physics I am still figuring out exactly what I want to be in the future since I am exploring different interests and deciding which subjects I like best.</p>
+        <p>Hi! My name is Venesia. I am currently a Grade 9 student navigating my way through school. Right now, my absolute favorite school subject is free periods—because let's be honest, who doesn't love a good break? Actually, for now, my favorite is physics. I am still figuring out exactly what I want to be in the future since I am exploring different interests and deciding which subjects I like best.</p>
 
         <!-- Hobbies Section -->
         <h2>My Hobbies</h2>
         <ul>
-            <li>Listening to music (most of the time)+</li>
+            <li>Listening to music</li>
             <li>Reading fiction books</li>
             <li>Watching movies</li>
             <li>Hanging out and playing with my friends</li>
@@ -97,7 +96,8 @@
         <!-- Fun Fact Section -->
         <h2>Fun Fact</h2>
         <p>Outside staring at screens, a fun fact about me is that i am surprisingly good at nothing! For some reason, I seem to be terrible at everyting i try.</p>
-        <!--footer section-->
+
+        <!-- Footer -->
         <div class="footer-text">
             <p>Created by Venesia | Web Design Assignment</p>
         </div>
